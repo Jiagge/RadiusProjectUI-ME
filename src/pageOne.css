@@ -1,0 +1,188 @@
+
+/*STYLING FOR GENERAL LOGIN PAGE FEATURES*/
+.page-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(126, 101, 101);
+    background-image: url("./bg1.jpg");
+    background-size: contain;
+    height: 800px;
+    padding-top: 10px;
+  
+}
+
+
+
+/*STYLING FOR RIGHT SIDE FEATURES, SIGNUP SIDE*/
+.form-container3{
+    background-color: #fff;
+    height: 500px;
+    width: 350px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    padding-top: 80px;
+    }
+
+.form-container.p1.logo{
+    display: flex;
+    text-align: center;
+}
+.welcome{
+    display: flex;
+    color: black;
+    padding-left: 15px;
+} 
+
+.haveAccount{
+    display: flex;
+    padding-top: 50px;
+    padding-left: 20px;
+
+}
+    
+.login-button{
+    display: flex;
+    margin-top: 30px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    border-radius: 20px;
+    border:2px solid rgb(126, 101, 101);
+    background-color: rgb(126, 101, 101);
+    color:white;
+    height: 40px; 
+}
+
+.login-box{
+    display: flex;
+    padding-right: 30px;
+}
+
+
+
+.login-button:hover{
+    
+    color: orange;
+}
+
+.text-description{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    
+}
+
+
+
+
+
+
+/*STYLING FOR THE RIGHT SIDE CONTENT, LOGING IN DETAILS*/
+.form-container4{
+    background-color: #fff;
+    height: 500px;
+    width: 700px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    padding-top: 100px;
+    padding-left: 130px;
+
+    }
+.sign-up{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.signup-names{
+    display: inline;
+   padding-top: 20px;
+}
+    
+.signup-email{
+display: block;
+padding-bottom: 30px;
+}
+
+
+.text-input{
+align-items: center;
+width:200px;
+padding-top: 12px;
+padding-bottom: 12px;
+padding-left: 20px;
+border:2px solid whitesmoke;
+border-radius: 20px;
+background-color:whitesmoke;
+
+
+}
+
+.text-input-email{
+    align-items: center;
+    width:400px;
+    padding-bottom: 20px;
+    padding-top: 12px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    border:2px solid whitesmoke;
+    border-radius: 20px;
+    background-color:whitesmoke;
+    margin-bottom: 20px;
+    
+    
+    }
+    .text-input-company{
+        align-items: center;
+        width:400px;
+        padding-bottom: 20px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-left: 20px;
+        border:2px solid whitesmoke;
+        border-radius: 20px;
+        background-color:whitesmoke;
+        
+        
+        }
+.signup-button{
+    display: flex;
+    margin-top: 30px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    border-radius: 20px;
+    border:2px solid rgb(126, 101, 101);
+    background-color: rgb(126, 101, 101);
+    color:white;
+    height: 40px;
+}
+.signup-box{
+    display: flex;
+    padding-left: 110px;
+}
+
+.signup-button:hover{
+    color: orange;
+}
+
+.forget-password{
+    text-align: center;
+}
+
+
+

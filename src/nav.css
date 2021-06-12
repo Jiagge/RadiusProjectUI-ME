@@ -1,0 +1,74 @@
+
+.mynav{
+    background-color: whitesmoke;
+    position:fixed;
+    z-index: 6;
+    flex-direction: row;
+    display: flex;
+    margin-top: 0px;
+    top:0;
+    width:100vw;
+}
+
+.main-category{
+    padding-left: 12px;
+}
+
+
+
+.nav-items .nav-link{
+    border:2px solid rgb(231, 224, 224);
+    background-color:rgb(231, 224, 224);
+    border-width:8px ;
+    border-radius: 10px;
+    color: black;
+   
+  
+}
+
+.nav-items .nav-link:hover{
+   border-color: rgb(126, 101, 101);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.nav-items{
+    display: inline;
+    padding-left: 12px;
+
+
+    
+   
+
+}
+
+.nav-link{
+    color:rgb(252, 249, 249);
+    font-size: 17px;
+   
+}
+

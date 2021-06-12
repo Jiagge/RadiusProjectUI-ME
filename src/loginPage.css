@@ -1,0 +1,135 @@
+
+/*STYLING FOR GENERAL LOGIN PAGE FEATURES*/
+.page-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(126, 101, 101);
+    height: 800px;
+    padding-top: 10px;
+    
+   
+  
+}
+.form-container{
+background-color: #fff;
+height: 400px;
+width: 350px;
+border-radius: 15px;
+display: flex;
+justify-content: center;
+box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+-moz-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+-webkit-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+-o-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+-ms-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+padding-top: 45px;
+
+
+
+}
+
+
+
+/*STYLING FOR THE RIGHT SIDE CONTENT, LOGING IN DETAILS*/
+.form-container{
+    background-color: #fff;
+    height: 400px;
+    width: 350px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    padding-top: 45px;
+    
+    
+    
+    }
+    
+
+
+.text-input{
+align-items: center;
+width:200px;
+padding-top: 12px;
+padding-bottom: 12px;
+padding-left: 20px;
+border:2px solid whitesmoke;
+border-radius: 20px;
+background-color:whitesmoke;
+
+
+}
+
+.login-button{
+    display: flex;
+    margin-top: 30px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    border-radius: 20px;
+    border:2px solid rgb(126, 101, 101);
+    background-color: rgb(126, 101, 101);
+    color:white;
+    height: 40px;
+}
+
+.login-button:hover{
+    color: orange;
+}
+
+.forget-password{
+    text-align: center;
+}
+
+
+
+/*STYLING FOR RIGHT SIDE FEATURES, SIGNUP SIDE*/
+.form-container2{
+    
+    background-color: #fff;
+    height: 400px;
+    width: 350px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    padding-top: 80px;
+  
+    
+    }
+    
+.signup-button{
+    display: flex;
+    margin-top: 30px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    border-radius: 20px;
+    border:2px solid rgb(126, 101, 101);
+    background-color: rgb(126, 101, 101);
+    color:white;
+    height: 40px; 
+    
+}
+.signup-button:hover{
+    
+    color: orange;
+}
+
+.text-description{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    
+}
